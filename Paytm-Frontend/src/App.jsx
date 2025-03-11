@@ -2,7 +2,7 @@ import React from "react";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import UserSignIn from "./Users/Controllers/UserSignIn";
 import UserSignUp from "./Users/Controllers/UserSignup";
-import UserRoutes from "./Users/UserRoutes/Userroutes";
+import UserRoutes from "./Users/UserRoutes/UserRoutes";
 
 function App() {
     return (
